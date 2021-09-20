@@ -1,0 +1,6 @@
+name_classify/data/
+name_classify/checkpoints/
+name_classify/.ipynb_checkpoints/
+.idea/
+
+*.pyc
